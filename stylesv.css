@@ -198,3 +198,7 @@ ul{
     text-decoration: none;
     color: var(--verde1);
 }
+footer{
+    background-color: var(--verde1);
+    color: var(--preto);
+}
